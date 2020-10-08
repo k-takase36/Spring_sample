@@ -4,7 +4,7 @@
 SpringBootで「Hello World」の表示
 
 ## 作成するもの
-「Hello World」
+Hello World!!
 
 ## 開発環境
 - ローカル
