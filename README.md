@@ -1,7 +1,7 @@
 ## SpringBootで簡単なWebアプリケーション開発
 
 ## 内容
-SpringBootで「Hello World」の表示
+SpringBootで「Hello World」を表示させる
 
 ## 作成するもの
 Hello World!!
