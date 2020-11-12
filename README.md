@@ -1,10 +1,11 @@
-## SpringBootで簡単なWebアプリケーション開発
+## オリジナルアプリの個人開発（Java、Spring）
 
 ## 内容
-SpringBootで「Hello World」を表示させる
+オリジナルアプリの個人開発（Java、Spring）
 
 ## 作成するもの
-Hello World!!
+- Springフレームワークを使用して ToDo機能のWebアプリ制作
+- 個人でもGitHubを使用してコード、ファイルを変更、記録
 
 ## 開発環境
 - ローカル
